@@ -1,4 +1,3 @@
-
 const first = document.querySelector('#first');
 const p1 = document.createElement('p');
 const p2 = document.createElement('p');
